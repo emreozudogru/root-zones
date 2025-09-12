@@ -1,7 +1,3 @@
-
-; <<>> DiG 9.18.33-1~deb12u2-Debian <<>> @lax.xfr.dns.icann.org arpa. axfr
-; (2 servers found)
-;; global options: +cmd
 arpa.			86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025091101 1800 900 604800 86400
 arpa.			518400	IN	NS	a.ns.arpa.
 arpa.			518400	IN	NS	b.ns.arpa.
@@ -231,8 +227,3 @@ urn.arpa.		86400	IN	RRSIG	DS 8 2 86400 20250924180000 20250911170000 43915 arpa.
 urn.arpa.		86400	IN	RRSIG	NSEC 8 2 86400 20250924180000 20250911170000 43915 arpa. Ylqp2pHH/zzzrUsdujbAp4L7T+GZpdlfUi406gZR1DpxmfLxq2/xkNtp 7tZ5d7x/8G+vog0MYNH92ueEhnulkxwBbgT8yr+KFWaz7BXYXEXZwnyO DFAwh5crSOe7+XPf2/6+l+f5GNMHc6GET23TF3CkPBigVxztI0N8e+H7 X5xyAhl/5qIgGOHuCeGj1NRALU33Ya0tIskymqUU2TRx7quKNGiJhfWh mLTyuoeYMAr2B2uH+Cxih+q1FvdCdo2ohEI2/8T1cbglD7oqI/XqKOKm CSQ7u/OPvXSE8FHo3LOmkyvDHiDMh9npU9igYvRtPWUVcF6WGIuYPDaP Kvu4Uw==
 urn.arpa.		86400	IN	NSEC	arpa. NS DS RRSIG NSEC
 arpa.			86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025091101 1800 900 604800 86400
-;; Query time: 136 msec
-;; SERVER: 2620:0:2d0:202::132#53(lax.xfr.dns.icann.org) (TCP)
-;; WHEN: Fri Sep 12 00:59:05 EDT 2025
-;; XFR size: 229 records (messages 2, bytes 22851)
-

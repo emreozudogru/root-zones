@@ -1,7 +1,3 @@
-
-; <<>> DiG 9.18.33-1~deb12u2-Debian <<>> @lax.xfr.dns.icann.org 233.in-addr.arpa. axfr
-; (2 servers found)
-;; global options: +cmd
 233.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091618 7200 3600 604800 3600
 233.in-addr.arpa.	3600	IN	RRSIG	NSEC 13 3 3600 20251001075541 20250909203114 13920 233.in-addr.arpa. Flem/cHPcJqm3SuaG8zjzCfK+tWoqcG91w7uON5V/PDNgzE3zYAuWrQu tOw0kV5maTTcaQ75SsdY6mLRDgZhzQ==
 233.in-addr.arpa.	28800	IN	RRSIG	TXT 13 3 28800 20251002103839 20250911195458 13920 233.in-addr.arpa. 6e0e5vDjOiBbLmYXkQTniqKeIm/qYUZHZ/WADmcrh+jTbjQ9n22qQ6uO UbpjhxTVcHx0eGTzkjyRZkct8QQUvQ==
@@ -33,8 +29,3 @@
 26.49.233.in-addr.arpa.	28800	IN	NS	ns.selfnet.cz.
 26.49.233.in-addr.arpa.	28800	IN	NS	ns.czechbone.net.
 233.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091618 7200 3600 604800 3600
-;; Query time: 64 msec
-;; SERVER: 2620:0:2d0:202::132#53(lax.xfr.dns.icann.org) (TCP)
-;; WHEN: Fri Sep 12 00:59:07 EDT 2025
-;; XFR size: 31 records (messages 1, bytes 1849)
-

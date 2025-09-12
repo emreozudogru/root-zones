@@ -1,7 +1,3 @@
-
-; <<>> DiG 9.18.33-1~deb12u2-Debian <<>> @lax.xfr.dns.icann.org mcast.net. axfr
-; (2 servers found)
-;; global options: +cmd
 mcast.net.		3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2023093264 7200 3600 604800 3600
 mcast.net.		3600	IN	RRSIG	NSEC 8 2 3600 20250930135810 20250909214832 51501 mcast.net. fJJoOqwPgbhsAP6sWKPAdxEsqCzytHmUdTQhrQw3liJheGXHzFKqKnF4 /aBTYEpV0zZrcjkrhjItXSoVckzwOv9p2AsViRPPP204VvafBdowdSTK 8HJly7U+iQ83aQDdO9sb6n7E423Q4ieCGrOjFTTaxT6buoiNEB6Crbat sMA=
 mcast.net.		28800	IN	RRSIG	MX 8 2 28800 20250929231200 20250909074732 51501 mcast.net. aksaP0MSZT1VCOBe/fQ5+K67eYsuAMdrX+kZgmubkqTpv7nsOYWdUh2O ZdGU8FU5xodNDfVg02Sxb4iuuayYewECMIKTjo2q08+CUnBwQI6AXNcB fmeXM8S4uNgMnI0nzBg1aE6keljOJwGJNFOcPJwj0NTCfdnyCJzyo49z Mvw=
@@ -730,8 +726,3 @@ zuba.mcast.net.		28800	IN	RRSIG	A 8 3 28800 20250928195310 20250907081337 51501 
 zuba.mcast.net.		3600	IN	NSEC	mcast.net. A RRSIG NSEC
 zuba.mcast.net.		28800	IN	A	224.0.1.59
 mcast.net.		3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2023093264 7200 3600 604800 3600
-;; Query time: 244 msec
-;; SERVER: 2620:0:2d0:202::132#53(lax.xfr.dns.icann.org) (TCP)
-;; WHEN: Fri Sep 12 00:59:06 EDT 2025
-;; XFR size: 728 records (messages 5, bytes 74576)
-

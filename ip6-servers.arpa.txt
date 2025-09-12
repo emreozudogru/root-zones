@@ -1,7 +1,3 @@
-
-; <<>> DiG 9.18.33-1~deb12u2-Debian <<>> @lax.xfr.dns.icann.org ip6-servers.arpa. axfr
-; (2 servers found)
-;; global options: +cmd
 ip6-servers.arpa.	3600	IN	SOA	a.ip6-servers.arpa. nstld.iana.org. 2025070793 14400 7200 1209600 3600
 ip6-servers.arpa.	3600	IN	RRSIG	NSEC 8 2 3600 20250930042255 20250908154632 52204 ip6-servers.arpa. FmKQRxPQaGPWgrqoQvNL2DJ0bGmKtgTXNGTrwXEvqzMOtlTtXOHUfBf6 rUzUM84wGgp58XlWetIM0ajl1+9D+U9Ney6UPlJq//BY6CjfJ3VWdz/6 488UAYkYmGqu5ENV5yUe2lEEVFtceLmxm6pg7XaTEKdqB+B+srEA8XWk X+k=
 ip6-servers.arpa.	86400	IN	RRSIG	NS 8 2 86400 20250928192453 20250907205321 52204 ip6-servers.arpa. LGb3Yps5otJF9BTsYMeU5fIhBeFXhQQYD+20QBKSFht3DfYFG7KMZRZb 2B/seqVP7d19DCZEOKwgPrCi1KBhg+gGBKxC5VBJNN80Cf+gOlDyE7yG z5JlME+mVGACJ11I0rndtlqMutIsHThwmazIzEIdHucnA0dVv92zdn1Q C5Y=
@@ -55,8 +51,3 @@ f.ip6-servers.arpa.	3600	IN	NSEC	ip6-servers.arpa. A AAAA RRSIG NSEC
 f.ip6-servers.arpa.	86400	IN	AAAA	2a13:27c0:30::2
 f.ip6-servers.arpa.	86400	IN	A	193.0.9.2
 ip6-servers.arpa.	3600	IN	SOA	a.ip6-servers.arpa. nstld.iana.org. 2025070793 14400 7200 1209600 3600
-;; Query time: 72 msec
-;; SERVER: 2620:0:2d0:202::132#53(lax.xfr.dns.icann.org) (TCP)
-;; WHEN: Fri Sep 12 00:59:05 EDT 2025
-;; XFR size: 53 records (messages 1, bytes 5774)
-

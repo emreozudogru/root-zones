@@ -1,7 +1,3 @@
-
-; <<>> DiG 9.18.33-1~deb12u2-Debian <<>> @lax.xfr.dns.icann.org 234.in-addr.arpa. axfr
-; (2 servers found)
-;; global options: +cmd
 234.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091719 7200 3600 604800 3600
 234.in-addr.arpa.	3600	IN	RRSIG	NSEC 13 3 3600 20250930035045 20250909143114 602 234.in-addr.arpa. Rhei/vmnvHMmAe2VPCnCKz7+WCoaNWuTrS4Iia4P3X9x1EgJMDaTIa7m aNTNrgYCUXJtGPByWYFlUuS8ih8n4Q==
 234.in-addr.arpa.	28800	IN	RRSIG	TXT 13 3 28800 20251001053208 20250910043114 602 234.in-addr.arpa. /yUyFrcTpe4TihKt/HtUGrwQT/CrQxHNdBQ9ANnQlDMwDR2eThVGNpYl ifS2/zdtNGqAdwl5fp1SgLiICQtMpQ==
@@ -44,8 +40,3 @@
 94.160.234.in-addr.arpa. 28800	IN	NS	ns-auth-2.umn.edu.
 94.160.234.in-addr.arpa. 28800	IN	NS	ns-auth-remote-1.umn.edu.
 234.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091719 7200 3600 604800 3600
-;; Query time: 68 msec
-;; SERVER: 2620:0:2d0:202::132#53(lax.xfr.dns.icann.org) (TCP)
-;; WHEN: Fri Sep 12 00:59:08 EDT 2025
-;; XFR size: 42 records (messages 1, bytes 2263)
-

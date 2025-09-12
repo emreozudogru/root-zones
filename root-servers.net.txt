@@ -1,7 +1,3 @@
-
-; <<>> DiG 9.18.33-1~deb12u2-Debian <<>> @lax.xfr.dns.icann.org root-servers.net. axfr
-; (2 servers found)
-;; global options: +cmd
 root-servers.net.	3600000	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025091000 14400 7200 1209600 3600000
 root-servers.net.	3600000	IN	NS	a.root-servers.net.
 root-servers.net.	3600000	IN	NS	b.root-servers.net.
@@ -44,8 +40,3 @@ l.root-servers.net.	3600000	IN	AAAA	2001:500:9f::42
 m.root-servers.net.	3600000	IN	A	202.12.27.33
 m.root-servers.net.	3600000	IN	AAAA	2001:dc3::35
 root-servers.net.	3600000	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025091000 14400 7200 1209600 3600000
-;; Query time: 72 msec
-;; SERVER: 2620:0:2d0:202::132#53(lax.xfr.dns.icann.org) (TCP)
-;; WHEN: Fri Sep 12 00:59:05 EDT 2025
-;; XFR size: 42 records (messages 1, bytes 956)
-

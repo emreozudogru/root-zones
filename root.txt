@@ -1,7 +1,3 @@
-
-; <<>> DiG 9.18.33-1~deb12u2-Debian <<>> @lax.xfr.dns.icann.org . axfr
-; (2 servers found)
-;; global options: +cmd
 .			86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025091101 1800 900 604800 86400
 .			518400	IN	NS	a.root-servers.net.
 .			518400	IN	NS	b.root-servers.net.
@@ -24906,8 +24902,3 @@ ns1zim.telone.co.zw.	172800	IN	AAAA	2c0f:f758:0:a::81
 ns2zim.telone.co.zw.	172800	IN	A	41.220.30.82
 ns2zim.telone.co.zw.	172800	IN	AAAA	2c0f:f758:0:a::82
 .			86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025091101 1800 900 604800 86400
-;; Query time: 496 msec
-;; SERVER: 2620:0:2d0:202::132#53(lax.xfr.dns.icann.org) (TCP)
-;; WHEN: Fri Sep 12 00:59:04 EDT 2025
-;; XFR size: 24904 records (messages 82, bytes 1328173)
-

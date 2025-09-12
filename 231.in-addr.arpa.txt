@@ -1,7 +1,3 @@
-
-; <<>> DiG 9.18.33-1~deb12u2-Debian <<>> @lax.xfr.dns.icann.org 231.in-addr.arpa. axfr
-; (2 servers found)
-;; global options: +cmd
 231.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091483 7200 3600 604800 3600
 231.in-addr.arpa.	3600	IN	RRSIG	NSEC 13 3 3600 20250929215044 20250908223114 30134 231.in-addr.arpa. OD3hcs48ocTIHSL5wwkyd/IJ2QmFbM3Btox4I9GbWF2WAIO/NhCrGVEF nhOBn7f7UutPYpJsudoFEEB5EN54Dg==
 231.in-addr.arpa.	28800	IN	RRSIG	TXT 13 3 28800 20250929112030 20250908114532 30134 231.in-addr.arpa. QVeB0uRSLWzu2AqEQVdU5vnV0p+Jy9FXZy2lxMnD7ko0h5hgRECByKVu ywHv7i9caN1FeAd9oYkoTRA4722PYQ==
@@ -19,8 +15,3 @@
 231.in-addr.arpa.	3600	IN	DNSKEY	256 3 13 pSXP+lfDA/2A2/5N92LlmtBfO+MIFD51wwJlFZZHfzKngaU6+hcyhuwm v8S1IPLOnZCt3l5KyNu+qnRP1DptQg==
 231.in-addr.arpa.	3600	IN	DNSKEY	257 3 13 Fx741qP+Vc8QEcA5YxBN4TrnxFSQ+PT1q9QEL//RbLn9y2ABPlsnqduK E6xf4msxpQbfX6ZKdsKyekbkjvLzJA==
 231.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091483 7200 3600 604800 3600
-;; Query time: 60 msec
-;; SERVER: 2620:0:2d0:202::132#53(lax.xfr.dns.icann.org) (TCP)
-;; WHEN: Fri Sep 12 00:59:07 EDT 2025
-;; XFR size: 17 records (messages 1, bytes 1185)
-

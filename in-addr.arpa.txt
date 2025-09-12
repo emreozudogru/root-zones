@@ -1,7 +1,3 @@
-
-; <<>> DiG 9.18.33-1~deb12u2-Debian <<>> @lax.xfr.dns.icann.org in-addr.arpa. axfr
-; (2 servers found)
-;; global options: +cmd
 in-addr.arpa.		3600	IN	SOA	b.in-addr-servers.arpa. nstld.iana.org. 2025070962 1800 900 604800 3600
 in-addr.arpa.		3600	IN	RRSIG	NSEC 8 2 3600 20250924142819 20250903035510 53413 in-addr.arpa. EOcjHoVYBwUp6pB1GH0eUWeAwbweNwzsB8thSucpHmQ7j575ta3U+Xew otNe1wivTVi9BU1qDq4AKXlsMbFxsHU4rw5/AUR3RkwGmnx2Yu7RaTlu 8otzo/tyqLR5+MUMg54JIvWsqq13WgLbRIjvtp2mOuMwMerKR3Tr+Zvy pXY=
 in-addr.arpa.		3600	IN	RRSIG	NS 8 2 3600 20250920055607 20250830040051 53413 in-addr.arpa. VS/VskVm+g83v1CNyH3xJIDt/LSNhe6suqJ6ItmzSafHOei8OR2ihPRR s2JLgC7xCFjDCVpgvxg6R3kvgs595+8A54IWBmfPAipAdH2m4CPDuoql dsVRYF5UgcVVUnn0bl3C1NBpLbSI48ZiMP3El9ToH0RdRz/oOgwyWKK9 J04=
@@ -2190,8 +2186,3 @@ in-addr.arpa.		3600	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJC
 99.in-addr.arpa.	86400	IN	NS	z.arin.net.
 99.in-addr.arpa.	86400	IN	NS	arin.authdns.ripe.net.
 in-addr.arpa.		3600	IN	SOA	b.in-addr-servers.arpa. nstld.iana.org. 2025070962 1800 900 604800 3600
-;; Query time: 260 msec
-;; SERVER: 2620:0:2d0:202::132#53(lax.xfr.dns.icann.org) (TCP)
-;; WHEN: Fri Sep 12 00:59:05 EDT 2025
-;; XFR size: 2188 records (messages 8, bytes 118590)
-
