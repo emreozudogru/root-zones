@@ -1,0 +1,17 @@
+
+; <<>> DiG 9.18.33-1~deb12u2-Debian <<>> @lax.xfr.dns.icann.org ipv4only.arpa. axfr
+; (2 servers found)
+;; global options: +cmd
+ipv4only.arpa.		86400	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022072100 7200 3600 604800 3600
+ipv4only.arpa.		86400	IN	NS	a.iana-servers.net.
+ipv4only.arpa.		86400	IN	NS	b.iana-servers.net.
+ipv4only.arpa.		86400	IN	NS	c.iana-servers.net.
+ipv4only.arpa.		86400	IN	NS	ns.icann.org.
+ipv4only.arpa.		86400	IN	A	192.0.0.170
+ipv4only.arpa.		86400	IN	A	192.0.0.171
+ipv4only.arpa.		86400	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022072100 7200 3600 604800 3600
+;; Query time: 64 msec
+;; SERVER: 2620:0:2d0:202::132#53(lax.xfr.dns.icann.org) (TCP)
+;; WHEN: Fri Sep 12 00:59:05 EDT 2025
+;; XFR size: 8 records (messages 1, bytes 248)
+

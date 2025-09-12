@@ -1,0 +1,26 @@
+
+; <<>> DiG 9.18.33-1~deb12u2-Debian <<>> @lax.xfr.dns.icann.org 236.in-addr.arpa. axfr
+; (2 servers found)
+;; global options: +cmd
+236.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091474 7200 3600 604800 3600
+236.in-addr.arpa.	3600	IN	RRSIG	NSEC 13 3 3600 20250929123027 20250908025221 8742 236.in-addr.arpa. fRpTSK2GMEY83/fI+fnnZEjznKXJNELDSB5w6FeY6q+s6qqiGSQaoIru 0xuUNCEDEK+rvbkggt/97VRNR9+arA==
+236.in-addr.arpa.	28800	IN	RRSIG	TXT 13 3 28800 20251002025426 20250910203114 8742 236.in-addr.arpa. RJ5U1HowjuAid43vVdQQ1HWT3dGjwJJiRZC95lGUOs/LmlbiRUUoVw4R ZWB6J7JkP/Tv++km5WK/Y91cVGxCyg==
+236.in-addr.arpa.	28800	IN	RRSIG	MX 13 3 28800 20250929131038 20250908174532 8742 236.in-addr.arpa. A/p0IGBMPVRvcJb//Ki0Z6IKln633aPG0PB8rBziYbB1TN73dinB2pyK 0QfuBKO0h6ff9azDngaf86mrvvirsw==
+236.in-addr.arpa.	28800	IN	RRSIG	NS 13 3 28800 20250930145009 20250909043114 8742 236.in-addr.arpa. n0MwUE87TsonMcGscWBsw0gSf+V5+OAZVK9S8WwdwJU/FQGcv+bka3nf GmKGfHCYCrlhFa6HmDYR/Bq2tjLU+w==
+236.in-addr.arpa.	3600	IN	RRSIG	DNSKEY 13 3 3600 20250929104453 20250908063018 22293 236.in-addr.arpa. GgsC6MwojldI7jUV7y34WX2yGrdZ4/6/fGOIne1bPbBLEL8Z26qF88iv op5Umujg8nWe6MATs+xo3yHioN51Fg==
+236.in-addr.arpa.	3600	IN	RRSIG	SOA 13 3 3600 20251001201005 20250910203114 8742 236.in-addr.arpa. 3z/fwYIRZA7WVYSLOxxLFKZkqMYgBiHbJFhdofjPOgqdd0uZuXk0NUy4 H7Qd5XjYdVmYFr3xfWIBC6DmQokBvg==
+236.in-addr.arpa.	3600	IN	NSEC	236.in-addr.arpa. NS SOA MX TXT RRSIG NSEC DNSKEY
+236.in-addr.arpa.	28800	IN	TXT	"$Id: 236.in-addr.arpa 4127 2015-06-05 20:29:34Z mvergara $"
+236.in-addr.arpa.	28800	IN	MX	10 pechora.icann.org.
+236.in-addr.arpa.	28800	IN	NS	a.iana-servers.net.
+236.in-addr.arpa.	28800	IN	NS	b.iana-servers.net.
+236.in-addr.arpa.	28800	IN	NS	c.iana-servers.net.
+236.in-addr.arpa.	28800	IN	NS	ns.icann.org.
+236.in-addr.arpa.	3600	IN	DNSKEY	256 3 13 yykLILHc9OhMjFjnD21hEtaLeOMdepIOPEQtnFfT40rCBI/2xZJL+6+j QAzIKlnV9PNIcFmiu1NBovFsNB+4XQ==
+236.in-addr.arpa.	3600	IN	DNSKEY	257 3 13 9nhcHN40yfXpLUNC0EvBTONM/+w/J4YMcSnhunTmWSnsLMcZHFiCBzFi N1RsNka9nDfaFTcs1uMmWypFV8Q2yg==
+236.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091474 7200 3600 604800 3600
+;; Query time: 68 msec
+;; SERVER: 2620:0:2d0:202::132#53(lax.xfr.dns.icann.org) (TCP)
+;; WHEN: Fri Sep 12 00:59:08 EDT 2025
+;; XFR size: 17 records (messages 1, bytes 1185)
+

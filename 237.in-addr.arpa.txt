@@ -1,0 +1,22 @@
+
+; <<>> DiG 9.18.33-1~deb12u2-Debian <<>> @lax.xfr.dns.icann.org 237.in-addr.arpa. axfr
+; (2 servers found)
+;; global options: +cmd
+237.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091365 7200 3600 604800 3600
+237.in-addr.arpa.	3600	IN	RRSIG	NSEC 13 3 3600 20250930003846 20250909063114 38708 237.in-addr.arpa. ooKxZCFnGUlFxHZJKXcAuIFl+SsYXbNRYne4gj3mGFYM6bJcgyXJYcrZ o/0Kz/9a7uMqlnTCKhlbhdO5Q2ff1w==
+237.in-addr.arpa.	28800	IN	RRSIG	NS 13 3 28800 20250930221242 20250909143114 38708 237.in-addr.arpa. YMfZGiNNNkEX1FbcTJk5nvYT9I9upmhq+zafLUVHkrD/+rHJLN0gBXpe llohDg7ZSykOJTH+HBUwt9xEBWvFDg==
+237.in-addr.arpa.	3600	IN	RRSIG	DNSKEY 13 3 3600 20250929095224 20250908063016 58830 237.in-addr.arpa. Il2Gnsvtubp25f4TVw/MOzv4KbXRd9aGTVwh86AIS1rsxHzaT7tDm1XY /RHGBA0ig1vXxtj9CupUXsgLAjI9Yg==
+237.in-addr.arpa.	3600	IN	RRSIG	SOA 13 3 3600 20250930135129 20250909143114 38708 237.in-addr.arpa. 6IrUqF1OkYGDGiNA7ix1ySLNVtxVjo3jEPqExMEtX0rBVL5+yGnXtN8y 76YA911AcbvZZVeXSLA0p/NcLyTzfQ==
+237.in-addr.arpa.	3600	IN	NSEC	237.in-addr.arpa. NS SOA RRSIG NSEC DNSKEY
+237.in-addr.arpa.	28800	IN	NS	a.iana-servers.net.
+237.in-addr.arpa.	28800	IN	NS	b.iana-servers.net.
+237.in-addr.arpa.	28800	IN	NS	c.iana-servers.net.
+237.in-addr.arpa.	28800	IN	NS	ns.icann.org.
+237.in-addr.arpa.	3600	IN	DNSKEY	256 3 13 lDxbM3arl0eQm5+RAGp/5rP4w0/tiApxMXbKHLUgT9v3rA/vho4DzkPw CcBK6te9PjRdiRgeDxnhedNTogxZVQ==
+237.in-addr.arpa.	3600	IN	DNSKEY	257 3 13 OYnFnl0kBNYtFBgktDHOyQ8OEAaXTrVE+7z5HXgIpE43UCKO4x7q38nc DOKUn1Q3wUSi2DMzQjhzoFM1OXt6RA==
+237.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091365 7200 3600 604800 3600
+;; Query time: 68 msec
+;; SERVER: 2620:0:2d0:202::132#53(lax.xfr.dns.icann.org) (TCP)
+;; WHEN: Fri Sep 12 00:59:08 EDT 2025
+;; XFR size: 13 records (messages 1, bytes 866)
+

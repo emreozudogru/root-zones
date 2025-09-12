@@ -1,0 +1,28 @@
+
+; <<>> DiG 9.18.33-1~deb12u2-Debian <<>> @lax.xfr.dns.icann.org 238.in-addr.arpa. axfr
+; (2 servers found)
+;; global options: +cmd
+238.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091364 7200 3600 604800 3600
+238.in-addr.arpa.	3600	IN	RRSIG	NSEC 8 3 3600 20251001052125 20250909223114 65524 238.in-addr.arpa. bQ3ZNOXqU0ZE6Nr7MU0d3rdZP25wGIXOG11TUw1TMiOZU2BJcilnE5Cg 3MnmpvXErmsGROqhWvVraaVLKqOISHFVU0kweJjmIcIbNUt0mHkoIZfw XsA3AIcefa7H7o1bWELxiVqLDu3ndiNZNlTI/ztBzAIvrIH+k89hqHm9 Vpo=
+238.in-addr.arpa.	3600	IN	RRSIG	NSEC 13 3 3600 20251001052125 20250909223114 33005 238.in-addr.arpa. bi4mfPPRuzDrOxwbn9rYKq83DScPuiVmedV3Z0Wd0qpkz1Mffl7TPBb1 Ar8ocHRLwOgKmqu+6g0EcpE9/incaw==
+238.in-addr.arpa.	28800	IN	RRSIG	NS 8 3 28800 20251001112953 20250910203114 65524 238.in-addr.arpa. QXSTWCuQWgh8Fdj+uGjeHB2UquoE9UP94Ajr0bDVe+vnZ76z39VX4TCk nYTMPbzDSlydKoql1PRnjDKbVQgV1u7rwetl3e04QS/WywbnBSw+cUD6 Sb4k9WlWGgk7ZUU1fMCKS1llHX98P0Vbw61Aa7aU//jVpXL2OqWZNqgM VXU=
+238.in-addr.arpa.	28800	IN	RRSIG	NS 13 3 28800 20251001112953 20250910203114 33005 238.in-addr.arpa. X01bQ+s+/VnuLqpPTWKUXAlXV+sLEJ9JV3OpKkMiL6fLEDs+nWbgu91g uWgd20Qchn+sOeTn6Zuvp7hG4l9KIA==
+238.in-addr.arpa.	3600	IN	RRSIG	DNSKEY 8 3 3600 20250928222857 20250908063016 59821 238.in-addr.arpa. j3SGtqjDnJOY7G+8PEE5g4lJ+VNoGhBzjSOqt+bRO57yRH6m4rZ3wlc2 7Zlg7PtSFoj8SkAqw3PELqet+FpZY3b9RT+Pr/dqW6RKkhExiIun0g6m /OhyC3uCqj3M05SFc8DCt5vdnt42LLGU2lvCNIjxXCNafafPO4OBgsIj TMQDbN5gLPXM09dvqXcNnGN2OwwTeKxthoYZR8TnmEkWrf/9WSaayvky H+IElcZWwqahe2IPNhZjN3DYMy7SlkSbLeC3DwAH+gbN6emsPT6b25sw LaFxCrTkYBEiy5cmXFnHuLj7N+kFDdGsCX6cfUr6W2x27SQE6ja9S0I4 94MtWg==
+238.in-addr.arpa.	3600	IN	RRSIG	DNSKEY 13 3 3600 20250928222857 20250908063016 27400 238.in-addr.arpa. o36LNoNPaJnb9n25EVwJPbLiyz5QMhQlkO+dY1O2m2c5zdEfBROzag2h pyKKAUXvGOfopSQUgCU9NQiXpq86ng==
+238.in-addr.arpa.	3600	IN	RRSIG	SOA 8 3 3600 20251001204836 20250910203114 65524 238.in-addr.arpa. nK6+xuqMncbHYabshx8QNohhJq6XViPzcl/febMeUIFxt77AJfPI9uNj W5clZ5Wmgb3UcPzKD4ONPo35t3DJlozw66Gyltian1nCq5eHDUwOjMxj 8JFtIk8jbaFuYRVJbGb62NGhWBPJQeNhMILv8Mv6YoVt1JbMdV/wJwGf F+A=
+238.in-addr.arpa.	3600	IN	RRSIG	SOA 13 3 3600 20251001204836 20250910203114 33005 238.in-addr.arpa. YHTaQOjqtNyKKPdARS9AtYIlbKBjifWDoWLneBE6M9/fh5CdeX1ID+U8 rBzV4cklybA+EBfDfbsnufMAZAiIXQ==
+238.in-addr.arpa.	3600	IN	NSEC	238.in-addr.arpa. NS SOA RRSIG NSEC DNSKEY
+238.in-addr.arpa.	28800	IN	NS	a.iana-servers.net.
+238.in-addr.arpa.	28800	IN	NS	b.iana-servers.net.
+238.in-addr.arpa.	28800	IN	NS	c.iana-servers.net.
+238.in-addr.arpa.	28800	IN	NS	ns.icann.org.
+238.in-addr.arpa.	3600	IN	DNSKEY	256 3 8 AwEAAaeGneeGSyg/GcOQwBM12uZ7AD6k0ka61++H1vanhsfx241y2m01 u1LsCurlWwTvYwUzsHmS6/7x+L3eiZ/TdPwM3wzIFcy/+wOCEWfloEs+ UUjJTCti7mkx74+r8rnu8/lSDOgj3hNV1ZE+n7ai1bZ0IXqNWBm4Vijx ius2H0+3
+238.in-addr.arpa.	3600	IN	DNSKEY	256 3 13 joJX8JlhA+lXfFqye7qXAqjWPx+KCz7qwoe/IBdpgbIGzU3bM5NI+UXV rMPZPDTaMDMdRYPCHX1ankIMN+XTWg==
+238.in-addr.arpa.	3600	IN	DNSKEY	257 3 8 AwEAAbmR6khbKcoatZKuzhIHNwhSVLgvENDIQ5Bm7xYtWtA2bCBVWYGe 1PdIKx8g0asUhEive7fhgSCdJ1ku6ciQcrk7/nYn8CZOponBdHXxk8qY aMBrGDFLn3NY0qHJk/zW0+FJApDKO9Ti7LFZP0mKGLII3RdE2fFR28+j Lu3bDF2uDy3S3AqjD6kW7rHH7qu7RdrmOXLRbKTGKetuYsc/Ja5IE+Oj IbP63ZssuOmjUR5pJcPrNwA/fLNSWSYhwg3pP8xiv4qf2WdiLTz+zH8A cyFJKDWnA2nBGAdLg/H71kjj18lno7eXtuolkFOw0uaquKnIEbdL1jh6 ScswyYk0rnk=
+238.in-addr.arpa.	3600	IN	DNSKEY	257 3 13 Pq63tq6hHord9vHRuojMqnOGne/at+5sLMXgcMs6Z3kLisEbWvuVq/pl nrvlPi0d3DOl32bZ3InurrSA4E6AKA==
+238.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091364 7200 3600 604800 3600
+;; Query time: 64 msec
+;; SERVER: 2620:0:2d0:202::132#53(lax.xfr.dns.icann.org) (TCP)
+;; WHEN: Fri Sep 12 00:59:08 EDT 2025
+;; XFR size: 19 records (messages 1, bytes 2122)
+

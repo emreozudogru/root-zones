@@ -1,0 +1,5 @@
+
+; <<>> DiG 9.18.33-1~deb12u2-Debian <<>> @lax.xfr.dns.icann.org 30.in-addr.arpa. axfr
+; (2 servers found)
+;; global options: +cmd
+; Transfer failed.
