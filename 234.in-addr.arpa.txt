@@ -1,10 +1,10 @@
-234.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091719 7200 3600 604800 3600
+234.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091721 7200 3600 604800 3600
 234.in-addr.arpa.	3600	IN	RRSIG	NSEC 13 3 3600 20250930035045 20250909143114 602 234.in-addr.arpa. Rhei/vmnvHMmAe2VPCnCKz7+WCoaNWuTrS4Iia4P3X9x1EgJMDaTIa7m aNTNrgYCUXJtGPByWYFlUuS8ih8n4Q==
 234.in-addr.arpa.	28800	IN	RRSIG	TXT 13 3 28800 20251001053208 20250910043114 602 234.in-addr.arpa. /yUyFrcTpe4TihKt/HtUGrwQT/CrQxHNdBQ9ANnQlDMwDR2eThVGNpYl ifS2/zdtNGqAdwl5fp1SgLiICQtMpQ==
-234.in-addr.arpa.	28800	IN	RRSIG	MX 13 3 28800 20250918050102 20250827235648 602 234.in-addr.arpa. MhOG9Jg+VNEbSNW6IJgzEbcgJK4OnxOsR156OGCIc4el6bOZ8V8CRplq euCh69WwHCuKo/vE50HP738ZpnUfPA==
+234.in-addr.arpa.	28800	IN	RRSIG	MX 13 3 28800 20251003061102 20250912055458 602 234.in-addr.arpa. LYkdcIi/KF/H+B8J8Xjw1ePSkr8XOCgVQxNksHWqX875Br4MUTsRnAni wvjGvr6A3sW6N/PsT1rKPhJXcgG5lA==
 234.in-addr.arpa.	28800	IN	RRSIG	NS 13 3 28800 20250928024848 20250907001236 602 234.in-addr.arpa. wicdodInfJGcObi5gVFIhBNxePegOxpO6729Oy0YecK7sHdC/+0YdHeJ OBepESBQlOgJ+8Px2vLb7EcESqncLA==
 234.in-addr.arpa.	3600	IN	RRSIG	DNSKEY 13 3 3600 20250929041602 20250908063017 5295 234.in-addr.arpa. 0Vn8wogLUgBw6VVJddoTTOplO5wFtHMYva3V0tMW2TPFr2M3pE6TeC97 h/NZ24NJuTFBRd4C5Ecj9ptGaeXPAQ==
-234.in-addr.arpa.	3600	IN	RRSIG	SOA 13 3 3600 20251001023244 20250910123114 602 234.in-addr.arpa. lFQu8WREVKGlxQFFpFPyQsrXowIfdb+fvlv0U5hqM4Tm00I8VO/Axhgd 132Nh0wI2uqPyGmTnRGvQ3Cvq2aWXw==
+234.in-addr.arpa.	3600	IN	RRSIG	SOA 13 3 3600 20251003131402 20250912075458 602 234.in-addr.arpa. jXoS6EzQzNWWMToV2oBMwCvlUE2X1UDNZoO7Vnj66xNrpNqa+NOPwTiL ssEIiwPeK7hWsJPkxj+zPzlx9CRGig==
 234.in-addr.arpa.	3600	IN	NSEC	101.128.234.in-addr.arpa. NS SOA MX TXT RRSIG NSEC DNSKEY
 234.in-addr.arpa.	28800	IN	TXT	"$Id: 234.in-addr.arpa 4125 2015-06-05 20:29:14Z mvergara $"
 234.in-addr.arpa.	28800	IN	MX	10 pechora.icann.org.
@@ -29,7 +29,7 @@
 84.134.234.in-addr.arpa. 28800	IN	NS	ns-auth-1.umn.edu.
 84.134.234.in-addr.arpa. 28800	IN	NS	ns-auth-2.umn.edu.
 84.134.234.in-addr.arpa. 28800	IN	NS	ns-auth-remote-1.umn.edu.
-57.146.234.in-addr.arpa. 3600	IN	RRSIG	NSEC 13 5 3600 20250918085149 20250827215648 602 234.in-addr.arpa. 7evq8UKPKjRdluIw4qUjSqlDMVfUnoVI7pqKshfO11NQnK502MF/ivRy UJv5TxAoguvqB2X1dZaiDbUJ0yWYtw==
+57.146.234.in-addr.arpa. 3600	IN	RRSIG	NSEC 13 5 3600 20251003061257 20250912075458 602 234.in-addr.arpa. RVNib7ccZP2K9h8nA+7eaIxY5OfG8k+RYkZxhkp0dIusqwhq2JCQJxYU I5sjLx7zNjkEOVN9qr3inEeSlMAc5w==
 57.146.234.in-addr.arpa. 3600	IN	NSEC	94.160.234.in-addr.arpa. NS RRSIG NSEC
 57.146.234.in-addr.arpa. 28800	IN	NS	ns-auth-1.umn.edu.
 57.146.234.in-addr.arpa. 28800	IN	NS	ns-auth-2.umn.edu.
@@ -39,4 +39,4 @@
 94.160.234.in-addr.arpa. 28800	IN	NS	ns-auth-1.umn.edu.
 94.160.234.in-addr.arpa. 28800	IN	NS	ns-auth-2.umn.edu.
 94.160.234.in-addr.arpa. 28800	IN	NS	ns-auth-remote-1.umn.edu.
-234.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091719 7200 3600 604800 3600
+234.in-addr.arpa.	3600	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2022091721 7200 3600 604800 3600
