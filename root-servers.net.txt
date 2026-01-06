@@ -1,4 +1,4 @@
-root-servers.net.	3600000	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025091000 14400 7200 1209600 3600000
+root-servers.net.	3600000	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025121700 14400 7200 1209600 3600000
 root-servers.net.	3600000	IN	NS	a.root-servers.net.
 root-servers.net.	3600000	IN	NS	b.root-servers.net.
 root-servers.net.	3600000	IN	NS	c.root-servers.net.
@@ -39,4 +39,4 @@ l.root-servers.net.	3600000	IN	A	199.7.83.42
 l.root-servers.net.	3600000	IN	AAAA	2001:500:9f::42
 m.root-servers.net.	3600000	IN	A	202.12.27.33
 m.root-servers.net.	3600000	IN	AAAA	2001:dc3::35
-root-servers.net.	3600000	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025091000 14400 7200 1209600 3600000
+root-servers.net.	3600000	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025121700 14400 7200 1209600 3600000
